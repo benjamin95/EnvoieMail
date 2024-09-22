@@ -5,3 +5,4 @@ pyinstaller==6.10.0
 pyinstaller-hooks-contrib==2024.8
 python-dotenv==1.0.1
 setuptools==75.1.0
+tk==0.1.0
